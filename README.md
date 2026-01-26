@@ -1,17 +1,24 @@
 # Hi, I'm Kroma 👋
 I build stuff.
 
-## Featured Projects
-- 🦀 [Rust]
-  - [Autoclicker] => (https://github.com/kromamak/rust_autoclicker)
-  - [Accent Injector] => (https://github.com/kromamak/accent_injector)
-  
-- 🐍 [Python]
-  - [Minigames] => (https://github.com/kromamak/python-minigames)
-  
-- ☕ [Java]
-  - [Minecraft Trade Plugin] => (https://github.com/kromamak/trade_plugin)
+## Projects
+### 🦀 Rust
+
+| Name                                                               | Description                                                                | State               |
+| -----------                                                        | -----------                                                                | -----------         | 
+| [**Autoclicker**](https://github.com/kromamak/rust_autoclicker)    | *A fast and reliable autoclicker with extra functionality for minecraft.*  | 🛠️ working on it... |
+| [**Accent Injector**](https://github.com/kromamak/accent_injector) | *A tool to allow injecting italian accents on US layout keyboards easily.* | ✔️ finished         |
+
 ---
+### 🐍 Python
+| Name                                                      | Description                                  | State       |
+| -----------                                               | -----------                                  | ----------- | 
+| [Minigames](https://github.com/kromamak/python_minigames) | *A collection of fun python minigames.*      | ✔️ finished |
+---
+### ☕ Java
+  - https://github.com/kromamak/trade_plugin
+---
+
 
 <!--
 **Kromamak/kromamak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
