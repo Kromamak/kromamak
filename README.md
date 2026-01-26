@@ -13,7 +13,7 @@ I build stuff.
 ### 🐍 Python
 | Name                                                      | Description                                  | State       |
 | -----------                                               | -----------                                  | ----------- | 
-| [Minigames](https://github.com/kromamak/python_minigames) | *A collection of fun python minigames.*      | ✔️ finished |
+| [**Minigames**](https://github.com/kromamak/python_minigames) | *A collection of fun python minigames.*      | ✔️ finished |
 ---
 ### ☕ Java
   - https://github.com/kromamak/trade_plugin
