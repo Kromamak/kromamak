@@ -8,7 +8,7 @@ I build stuff.
 - 🐍 [Python]
   [Minigames] => (https://github.com/username/python-minigames)
   
-- [Java]
+- ☕ [Java]
   [Minecraft Trade Plugin] => (https://github.com/username/trade-plugin)
 ---
 
