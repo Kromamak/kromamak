@@ -10,13 +10,21 @@ I build stuff.
 | [**Accent Injector**](https://github.com/kromamak/accent_injector) | *A tool to allow injecting italian accents on US layout keyboards easily.* | ✔️ finished         |
 
 ---
+
 ### 🐍 Python
-| Name                                                      | Description                                  | State       |
-| -----------                                               | -----------                                  | ----------- | 
+
+| Name                                                          | Description                                  | State       |
+| -----------                                                   | -----------                                  | ----------- | 
 | [**Minigames**](https://github.com/kromamak/python_minigames) | *A collection of fun python minigames.*      | ✔️ finished |
+
 ---
+
 ### ☕ Java
-  - https://github.com/kromamak/trade_plugin
+
+| Name                                                          | Description                                          | State               |
+| -----------                                                   | -----------                                          | -----------         | 
+| [**Trade plugin**](https://github.com/kromamak/trade_plugin)  | A minecraft plugin that allows trading using chests. | 🛠️ working on it... |
+
 ---
 
 
