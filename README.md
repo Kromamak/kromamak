@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi, I'm Kroma 👋
+I build stuff.
+
+## Featured Projects
+- 🦀 [Rust]
+  [Autoclicker] => (https://github.com/username/rust-autoclicker)
+  
+- 🐍 [Python]
+  [Minigames] => (https://github.com/username/python-minigames)
+  
+- [Java]
+  [Minecraft Trade Plugin] => (https://github.com/username/trade-plugin)
+---
 
 <!--
 **Kromamak/kromamak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
