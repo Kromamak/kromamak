@@ -3,13 +3,13 @@ I build stuff.
 
 ## Featured Projects
 - 🦀 [Rust]
-  [Autoclicker] => (https://github.com/username/rust-autoclicker)
+  - [Autoclicker] => (https://github.com/username/rust-autoclicker)
   
 - 🐍 [Python]
-  [Minigames] => (https://github.com/username/python-minigames)
+  - [Minigames] => (https://github.com/username/python-minigames)
   
 - ☕ [Java]
-  [Minecraft Trade Plugin] => (https://github.com/username/trade-plugin)
+  - [Minecraft Trade Plugin] => (https://github.com/username/trade-plugin)
 ---
 
 <!--
