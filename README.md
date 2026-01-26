@@ -3,13 +3,14 @@ I build stuff.
 
 ## Featured Projects
 - 🦀 [Rust]
-  - [Autoclicker] => (https://github.com/username/rust-autoclicker)
+  - [Autoclicker] => (https://github.com/kromamak/rust_autoclicker)
+  - [Accent Injector] => (https://github.com/kromamak/accent_injector)
   
 - 🐍 [Python]
-  - [Minigames] => (https://github.com/username/python-minigames)
+  - [Minigames] => (https://github.com/kromamak/python-minigames)
   
 - ☕ [Java]
-  - [Minecraft Trade Plugin] => (https://github.com/username/trade-plugin)
+  - [Minecraft Trade Plugin] => (https://github.com/kromamak/trade_plugin)
 ---
 
 <!--
