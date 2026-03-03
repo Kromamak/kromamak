@@ -16,7 +16,7 @@ I build stuff.
 | Name                                                             | Description                                                               | State       |
 | -----------                                                      | -----------                                                               | ----------- | 
 | [**Minigames**](https://github.com/kromamak/python_minigames)    | *A collection of fun python minigames.*                                   | ✔️ finished |
-| [**Mail_checker**](https://github.com/Kromamak/mail_checker)     | *A small gmail notifier that cecks incoming mail from specific addresses* | ✔️ finished |
+| [**Mail Checker**](https://github.com/Kromamak/mail_checker)     | *A small gmail notifier that cecks incoming mail from specific addresses* | ✔️ finished |
 
 ---
 
@@ -24,7 +24,7 @@ I build stuff.
 
 | Name                                                          | Description                                          | State               |
 | -----------                                                   | -----------                                          | -----------         | 
-| [**Trade plugin**](https://github.com/kromamak/trade_plugin)  | A minecraft plugin that allows trading using chests. | 🛠️ working on it... |
+| [**Trade Plugin**](https://github.com/kromamak/trade_plugin)  | A minecraft plugin that allows trading using chests. | 🛠️ working on it... |
 
 ---
 
