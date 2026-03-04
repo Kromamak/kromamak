@@ -2,13 +2,6 @@
 I build stuff.
 
 ## Projects
-### 🦀 Rust
-
-| Name                                                               | Description                                                                | State               |
-| -----------                                                        | -----------                                                                | -----------         | 
-| [**Autoclicker**](https://github.com/kromamak/rust_autoclicker)    | *A fast and reliable autoclicker with extra functionality for minecraft.*  | 🛠️ working on it... |
-| [**Accent Injector**](https://github.com/kromamak/accent_injector) | *A tool to allow injecting italian accents on US layout keyboards easily.* | ✔️ finished         |
-
 ---
 
 ### 🐍 Python
@@ -17,6 +10,15 @@ I build stuff.
 | -----------                                                      | -----------                                                               | ----------- | 
 | [**Minigames**](https://github.com/kromamak/python_minigames)    | *A collection of fun python minigames.*                                   | ✔️ finished |
 | [**Mail Checker**](https://github.com/Kromamak/mail_checker)     | *A small gmail notifier that cecks incoming mail from specific addresses* | ✔️ finished |
+
+---
+
+### 🦀 Rust
+
+| Name                                                               | Description                                                                | State               |
+| -----------                                                        | -----------                                                                | -----------         | 
+| [**Autoclicker**](https://github.com/kromamak/rust_autoclicker)    | *A fast and reliable autoclicker with extra functionality for minecraft.*  | 🛠️ working on it... |
+| [**Accent Injector**](https://github.com/kromamak/accent_injector) | *A tool to allow injecting italian accents on US layout keyboards easily.* | ✔️ finished         |
 
 ---
 
